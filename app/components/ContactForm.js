@@ -186,7 +186,7 @@ export function ContactForm(){
     $loader.classList.remove("none")
     
     
-    fetch("https://formsubmit.co/ajax/ezequielmatiasb@hotmail.com", {
+    fetch("https://formsubmit.co/ajax/<<<INGRESAR-TU-CORREO>>>>>, {
         method: "POST",
         headers: { 
             'Content-Type': 'application/json',
